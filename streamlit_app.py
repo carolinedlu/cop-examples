@@ -13,7 +13,7 @@ import streamlit as st
 #         ("Standard (5-15 days)", "Express (2-5 days)")
 #     )
 
-st.success('This is a success message!', icon:"✅")
+st.success('This is a success message!', icon="✅")
 
 st.info('This is a purely informational message', icon="ℹ️")
 
